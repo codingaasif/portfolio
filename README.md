@@ -1,2 +1,2 @@
 # portfolio
-I have created my own sample portfolio
+I have created my own portfolio
